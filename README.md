@@ -1,4 +1,5 @@
-![💻_SBCA_-_Enrollment_Management_System 📚](https://github.com/Catalo21/sbcaEMS/assets/96164347/a704d924-ec41-4138-9f0f-944d9849f100)
+![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/5b7d1e73-a755-482d-a28d-52182462c197)
+
 
 # 🙋‍♂️ MEMBERS: 
 - Arellano, John Lloyd M. 🥵
