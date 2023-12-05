@@ -7,8 +7,8 @@
 - Lagunsing, John Carlo M.
 - Palo, Neil Allen
 
-  # : 
-- Arellano, John Lloyd M.
+# 🤝 CONTRIBUTION: 
+- ![95%](https://progress-bar.dev/95?title=Arellano)
 - Catalo, Francis A.
 - Hawak, Carl Jonel V.
 - Lagunsing, John Carlo M.
