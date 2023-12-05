@@ -39,3 +39,15 @@
         protocols, and providing clear, concise instructions for
         users, ensuring the documentation serves as a valuable
         resource for administrators and stakeholders.
+
+### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
+
+<details><summary>
+
+[does this work?](https://hello.ca)
+
+</summary>
+
+hi
+
+</details>
