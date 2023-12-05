@@ -7,6 +7,7 @@
 - Hawak, Carl Jonel V. 🤑
 - Lagunsing, John Carlo M. 😎
 - Palo, Neil Allen 🤪
+  
 
 # 🤝 CONTRIBUTION: 
   - ![95%](https://progress-bar.dev/95?title=Arellano)
