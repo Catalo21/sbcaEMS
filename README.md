@@ -44,5 +44,3 @@
         users, ensuring the documentation serves as a valuable
         resource for administrators and stakeholders.
 
-[![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl)
-
