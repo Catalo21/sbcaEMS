@@ -1,5 +1,6 @@
 ![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/5b7d1e73-a755-482d-a28d-52182462c197)
 
+### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
 # 🙋‍♂️ MEMBERS: 
 - Arellano, John Lloyd M. 🥵
@@ -40,14 +41,5 @@
         users, ensuring the documentation serves as a valuable
         resource for administrators and stakeholders.
 
-### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
-<details><summary>
 
-[does this work?](https://hello.ca)
-
-</summary>
-
-hi
-
-</details>
