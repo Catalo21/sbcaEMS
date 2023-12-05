@@ -1,11 +1,12 @@
 ![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/5b7d1e73-a755-482d-a28d-52182462c197)
+[![GitHub](https://img.shields.io/badge/GitHub-jlarellano05-black?style=flat&logo=github)](https://github.com/jlarellano05)[![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl)
 
 ### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
 # 🙋‍♂️ MEMBERS: 
-- Arellano, John Lloyd M. 🥵
+- Arellano, John Lloyd M. 🥵   
 - Catalo, Francis A. 🤤
-- Hawak, Carl Jonel V. 🤑
+- Hawak, Carl Jonel V. 🤑        
 - Lagunsing, John Carlo M. 😎
 - Palo, Neil Allen 🤪
   
@@ -41,7 +42,5 @@
         users, ensuring the documentation serves as a valuable
         resource for administrators and stakeholders.
 
-[![][jlarellano05]][github]
+[![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl)
 
-[github]: https://github.com/jlarellano05
-[jlarellano05]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
