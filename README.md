@@ -1,5 +1,14 @@
 ![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/5b7d1e73-a755-482d-a28d-52182462c197)
-<h1 align="center">[![GitHub](https://img.shields.io/badge/GitHub-jlarellano05-black?style=flat&logo=github)](https://github.com/jlarellano05)[![GitHub](https://img.shields.io/badge/GitHub-Catalo21-black?style=flat&logo=github)](https://github.com/Catalo21)[![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl)[![GitHub](https://img.shields.io/badge/GitHub-JohnCarloLagunsing-black?style=flat&logo=github)](https://github.com/JohnCarloLagunsing)[![GitHub](https://img.shields.io/badge/GitHub-NeilAllenn-black?style=flat&logo=github)](https://github.com/NeilAllenn)</h1>
+<center>
+
+[![GitHub](https://img.shields.io/badge/GitHub-jlarellano05-black?style=flat&logo=github)](https://github.com/jlarellano05)
+[![GitHub](https://img.shields.io/badge/GitHub-Catalo21-black?style=flat&logo=github)](https://github.com/Catalo21)
+[![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl)
+[![GitHub](https://img.shields.io/badge/GitHub-JohnCarloLagunsing-black?style=flat&logo=github)](https://github.com/JohnCarloLagunsing)
+[![GitHub](https://img.shields.io/badge/GitHub-NeilAllenn-black?style=flat&logo=github)](https://github.com/NeilAllenn)
+
+</center>
+
 
 ### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
