@@ -48,35 +48,3 @@
 ###         A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
 
 
-# Project Name
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/issues)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/yourusername.svg?style=social&label=Follow%20%40yourusername)](https://twitter.com/yourusername)
-
-Short project description goes here.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-Describe how to install your project here.
-
-## Usage
-
-Explain how to use your project or provide examples here.
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
