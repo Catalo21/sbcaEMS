@@ -4,6 +4,32 @@
 
 ### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
+<details>
+  <summary>Web-Based Enrollment Management System</summary>
+  
+  ### Home Page
+  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
+
+  ### Login Page
+  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/6c4b4998-9ec5-47ee-a007-b071abef21a6)
+
+  ### Student Lists Page
+  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/d34153c3-3125-4073-9d47-901a21277544)
+
+  ### Archive Page
+  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/31891c52-070f-4e35-9633-9635da3cff28)
+
+  ### Registration Page
+  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/51b6bc26-f480-4196-970d-ca24dafc8f8d)
+
+  ### Student Profile Page
+  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/5934942c-6149-4b35-bdb1-dba548c40e5f)
+
+  ### Change Password Page
+  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/9988a022-5c88-44e4-97cd-67eb03d8fefa)
+
+</details>
+
 # 🙋‍♂️ MEMBERS: 
 - Arellano, John Lloyd M. 🥵   
 - Catalo, Francis A. 🤤
@@ -45,35 +71,9 @@
 
 ![Sustainable_Development_Goal (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/8177b3f3-ac65-4ab1-8cac-ae630a83dc35)
 
-###         A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
-
-<details>
-  <summary>Click to expand dropdown</summary>
-  
-  ### Home Page
-  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
-
-  ### Login Page
-  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/6c4b4998-9ec5-47ee-a007-b071abef21a6)
-
-  ### Student Lists Page
-  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/d34153c3-3125-4073-9d47-901a21277544)
-
-  ### Archive Page
-  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/31891c52-070f-4e35-9633-9635da3cff28)
-
-  ### Registration Page
-  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/51b6bc26-f480-4196-970d-ca24dafc8f8d)
-
-  ### Student Profile Page
-  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/5934942c-6149-4b35-bdb1-dba548c40e5f)
-
-  ### Change Password Page
-  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/9988a022-5c88-44e4-97cd-67eb03d8fefa)
+### A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
 
 
-
-</details>
 
 
 
