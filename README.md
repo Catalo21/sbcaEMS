@@ -10,6 +10,9 @@
   ### Home Page
   ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
 
+  ### Enrollment Form
+  ![Screenshot 2023-12-06 224710](https://github.com/Catalo21/sbcaEMS/assets/96164347/b35c1936-4512-48c7-b766-bc26d56805bb)
+
   ### Login Page
   ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/6c4b4998-9ec5-47ee-a007-b071abef21a6)
 
