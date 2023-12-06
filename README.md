@@ -52,6 +52,7 @@
   <summary>Click to expand dropdown</summary>
   
   ### Category 1
+  <details>
   ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/e4b5a187-a4f8-4ae5-a063-d9b283406c2a)
   Description for Image 1
   
