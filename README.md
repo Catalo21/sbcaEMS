@@ -46,9 +46,26 @@
 
 ![Sustainable_Development_Goal (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/8177b3f3-ac65-4ab1-8cac-ae630a83dc35)
 
+<img
+  title="topology-1.png"
+  alt="New Relic topology explained 1"
+  src={styleguideIndentsandImagesIncorrectExample}
+/>
+
 <figcaption>
   In this example, all of the incidents in the dotted-line selection have met these requirements: they've gone through the [decision logic in steps 1 and 2](#build-decision), and all contextual comparisons made in [decision logic step 2](#build-decision) are true.
 </figcaption>
 
+2. Next, we attempt to associate each incident to a vertex in your [topology graph](#create-topology-graph) using a vertex's defining attributes and the available attributes on the incident.
+
+  <img
+    title="topology-2.png"
+    alt="New Relic topology explained 2"
+    src={styleguideIndentsandImagesCorrectExample}
+  />
+
+  <figcaption>
+    Here's an example of the steps for associating incidents with the information in the topology graph.
+  </figcaption>
 
 
