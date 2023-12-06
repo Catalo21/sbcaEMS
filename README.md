@@ -50,7 +50,8 @@
 
   <details>
   <summary>Click to expand dropdown</summary>
-    ![Screenshot 2023-12-06 195328]
+    ![Screenshot](path/to/your/screenshot.png)
+
 
   </details>
 
