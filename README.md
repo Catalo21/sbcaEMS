@@ -48,17 +48,14 @@
 ###         A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
 
 
-<details>
+  <details>
   <summary>Click to expand dropdown</summary>
-  
-  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/0aec2bad-2d04-4e08-8464-c210ebc93a70)
-  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/bc828b53-334e-4b04-a61e-9e7e6b8987f1)
-  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/72645a07-6f78-45e5-a619-436b67735075)
-  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/df13128f-9d6e-4392-9dbe-75adbd188924)
-  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/4c521f8d-c686-4d25-9926-e72a2b0d93e4)
-  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/e44404d9-4f18-4dd9-8d49-c421fea043bc)
-  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/47ccbb54-3827-4b12-adcf-548a6dbe40f5)
-
-
+  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/8636a20e-8b30-420d-87f8-264a209e2960)
+  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/38ea7cf0-1d4b-4d2e-9880-6f0986232795)
+  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/0ac0e09a-44d7-45ae-bc97-e616e0e3374e)
+  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/4dc26618-46fb-428f-9922-cb5c5d27ca3b)
+  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/1414b26e-969a-4bca-8684-6e878a544c2b)
+  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/52d33b36-2724-4af9-ade5-452455de26b7)
+  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/87bedb48-6fda-4dd8-9a1a-492475a8343e)
   </details>
 
