@@ -51,26 +51,16 @@
 <details>
   <summary>Click to expand dropdown</summary>
   
-  ### Category 1
   <details>
-  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/e4b5a187-a4f8-4ae5-a063-d9b283406c2a)
-  Description for Image 1
   
-  ![Image 2](image2.jpg)
-  Description for Image 2
+  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/0aec2bad-2d04-4e08-8464-c210ebc93a70)
+  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/bc828b53-334e-4b04-a61e-9e7e6b8987f1)
+  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/72645a07-6f78-45e5-a619-436b67735075)
+  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/df13128f-9d6e-4392-9dbe-75adbd188924)
+  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/4c521f8d-c686-4d25-9926-e72a2b0d93e4)
+  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/e44404d9-4f18-4dd9-8d49-c421fea043bc)
+  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/47ccbb54-3827-4b12-adcf-548a6dbe40f5)
 
-  ![Image 1](image1.jpg)
-  Description for Image 1
-  
-  ![Image 2](image2.jpg)
-  Description for Image 2
 
-  ![Image 1](image1.jpg)
-  Description for Image 1
-  
-  ![Image 2](image2.jpg)
-  Description for Image 2
-  
-
-</details>
+  </details>
 
