@@ -46,7 +46,9 @@
 
 ![Sustainable_Development_Goal (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/8177b3f3-ac65-4ab1-8cac-ae630a83dc35)
 
-A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
+<figcaption>
+  In this example, all of the incidents in the dotted-line selection have met these requirements: they've gone through the [decision logic in steps 1 and 2](#build-decision), and all contextual comparisons made in [decision logic step 2](#build-decision) are true.
+</figcaption>
 
 
 
