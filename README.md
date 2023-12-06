@@ -1,4 +1,5 @@
-![💻 SBCA_-_Enrollment_Management_System 📚 (1)]
+![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/db18c2c7-93c8-4862-95b2-09250a89abc5)
+
 &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-jlarellano05-black?style=flat&logo=github)](https://github.com/jlarellano05) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Catalo21-black?style=flat&logo=github)](https://github.com/Catalo21) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-JohnCarloLagunsing-black?style=flat&logo=github)](https://github.com/JohnCarloLagunsing) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-NeilAllenn-black?style=flat&logo=github)](https://github.com/NeilAllenn)
 
 
