@@ -47,5 +47,24 @@
 
 ###         A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
 
+# Project Title
+
+Brief description or introduction of your project.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide steps on how to install your project. You can include code snippets if necessary.
+
+```bash
+# Example installation commands
+npm install
 
 
