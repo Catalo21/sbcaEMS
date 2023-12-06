@@ -50,12 +50,10 @@
 
   <details>
   <summary>Click to expand dropdown</summary>
-  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/8636a20e-8b30-420d-87f8-264a209e2960)
-  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/38ea7cf0-1d4b-4d2e-9880-6f0986232795)
-  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/0ac0e09a-44d7-45ae-bc97-e616e0e3374e)
-  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/4dc26618-46fb-428f-9922-cb5c5d27ca3b)
-  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/1414b26e-969a-4bca-8684-6e878a544c2b)
-  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/52d33b36-2724-4af9-ade5-452455de26b7)
-  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/87bedb48-6fda-4dd8-9a1a-492475a8343e)
+![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/4c40071a-3f56-4a23-8a9e-b98dd388a829)
+
+  
+  
+    
   </details>
 
