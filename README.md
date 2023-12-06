@@ -1,4 +1,4 @@
-![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/5b7d1e73-a755-482d-a28d-52182462c197)
+![💻 SBCA_-_Enrollment_Management_System 📚 (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/5b7d1e73-a755-482d-a28d-52182462c197)![logo](https://github.com/Catalo21/sbcaEMS/assets/96164347/b8aeb72e-f57a-46c0-93e3-a4904660a0b1)
 &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-jlarellano05-black?style=flat&logo=github)](https://github.com/jlarellano05) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Catalo21-black?style=flat&logo=github)](https://github.com/Catalo21) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-JohnCarloLagunsing-black?style=flat&logo=github)](https://github.com/JohnCarloLagunsing) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-NeilAllenn-black?style=flat&logo=github)](https://github.com/NeilAllenn)
 
 
@@ -47,6 +47,7 @@
 ![Sustainable_Development_Goal (1)](https://github.com/Catalo21/sbcaEMS/assets/96164347/8177b3f3-ac65-4ab1-8cac-ae630a83dc35)
 
 <p>
+
 A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
 </p>
 
