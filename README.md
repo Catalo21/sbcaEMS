@@ -52,17 +52,24 @@
   <summary>Click to expand dropdown</summary>
   
   ### Category 1
+  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/e4b5a187-a4f8-4ae5-a063-d9b283406c2a)
+  Description for Image 1
+  
+  ![Image 2](image2.jpg)
+  Description for Image 2
+
+  ![Image 1](image1.jpg)
+  Description for Image 1
+  
+  ![Image 2](image2.jpg)
+  Description for Image 2
+
   ![Image 1](image1.jpg)
   Description for Image 1
   
   ![Image 2](image2.jpg)
   Description for Image 2
   
-  ### Category 2
-  ![Image 3](image3.jpg)
-  Description for Image 3
-  
-  ![Image 4](image4.jpg)
-  Description for Image 4
+
 </details>
 
