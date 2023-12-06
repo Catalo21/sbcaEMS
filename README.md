@@ -51,8 +51,6 @@
 <details>
   <summary>Click to expand dropdown</summary>
   
-  <details>
-  
   ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/0aec2bad-2d04-4e08-8464-c210ebc93a70)
   ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/bc828b53-334e-4b04-a61e-9e7e6b8987f1)
   ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/72645a07-6f78-45e5-a619-436b67735075)
