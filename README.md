@@ -49,7 +49,11 @@
 
 <details>
   <summary>Click to expand dropdown</summary>
-  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/fc4ef7d5-fab3-4809-9a1d-6c47e7e21152)
-  </details>
+  
+  ### Category 1
+  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
+
+</details>
+
 
 
