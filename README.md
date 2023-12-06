@@ -50,8 +50,28 @@
 <details>
   <summary>Click to expand dropdown</summary>
   
-  ### Category 1
+  ### Home Page
   ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/812bc793-f191-459e-882b-fcaa369964aa)
+
+  ### Login Page
+  ![Screenshot 2023-12-06 195415](https://github.com/Catalo21/sbcaEMS/assets/96164347/6c4b4998-9ec5-47ee-a007-b071abef21a6)
+
+  ### Student Lists Page
+  ![Screenshot 2023-12-06 195452](https://github.com/Catalo21/sbcaEMS/assets/96164347/d34153c3-3125-4073-9d47-901a21277544)
+
+  ### Archive Page
+  ![Screenshot 2023-12-06 195517](https://github.com/Catalo21/sbcaEMS/assets/96164347/31891c52-070f-4e35-9633-9635da3cff28)
+
+  ### Registration Page
+  ![Screenshot 2023-12-06 195533](https://github.com/Catalo21/sbcaEMS/assets/96164347/51b6bc26-f480-4196-970d-ca24dafc8f8d)
+
+  ### Student Profile Page
+  ![Screenshot 2023-12-06 195712](https://github.com/Catalo21/sbcaEMS/assets/96164347/5934942c-6149-4b35-bdb1-dba548c40e5f)
+
+  ### Change Password Page
+  ![Screenshot 2023-12-06 195732](https://github.com/Catalo21/sbcaEMS/assets/96164347/9988a022-5c88-44e4-97cd-67eb03d8fefa)
+
+
 
 </details>
 
