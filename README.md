@@ -50,7 +50,7 @@
 
   <details>
   <summary>Click to expand dropdown</summary>
-    ![Screenshot](path/to/your/screenshot.png)
+  ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/c67ba8e9-f9f3-4842-b21d-52d45dba637e)
 
 
   </details>
