@@ -50,7 +50,7 @@
 
   <details>
   <summary>Click to expand dropdown</summary>
-    ![Screenshot 2023-12-06 195328](https://github.com/Catalo21/sbcaEMS/assets/96164347/528d530f-5a7a-4ab1-94f7-eb08aeeb404d)
+    ![Screenshot 2023-12-06 195328]
 
   </details>
 
