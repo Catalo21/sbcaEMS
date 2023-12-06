@@ -2,8 +2,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub](https://img.shields.io/badge/GitHub-jlarellano05-black?style=flat&logo=github)](https://github.com/jlarellano05) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Catalo21-black?style=flat&logo=github)](https://github.com/Catalo21) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-crljnl-black?style=flat&logo=github)](https://github.com/crljnl) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-JohnCarloLagunsing-black?style=flat&logo=github)](https://github.com/JohnCarloLagunsing) &nbsp; &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-NeilAllenn-black?style=flat&logo=github)](https://github.com/NeilAllenn)
 
-
-
 ### The Web-Based Enrollment Management System is to transform this approach by using technology to improve and quicken the entire enrollment process. The goal of this project is to create a comprehensive online platform that makes it easier to submit applications, verify documents, and enter data.
 
 # 🙋‍♂️ MEMBERS: 
