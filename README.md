@@ -76,6 +76,15 @@
 
 ### A web-based enrollment management system plays a crucial role in advancing Sustainable Development Goal 4 (SDG 4) by enhancing access to education and promoting inclusivity. By enabling students to register for courses online, it eliminates geographical barriers and fosters a more inclusive learning environment. The system's efficiency and effectiveness streamline the enrollment process, reducing administrative burdens and ensuring that resources are used optimally, thereby contributing to the goal of improving the quality of education. Through analytics and reporting tools, it supports data-driven decision-making, allowing educational institutions to monitor and evaluate programs for continuous improvement. Moreover, a web-based system offers flexible learning options, aligning with SDG 4's emphasis on adaptable learning environments. Its features for communication and collaboration foster community engagement, creating an interactive platform that contributes to building strong partnerships for education, thus addressing various facets of SDG 4.
 
+# Technology Used
+
+In the architecture of our system, HTML served as the backbone for structuring the front end, meticulously organizing the web document for optimal user interaction. The visual aesthetics and stylistic elements of the user interface were skillfully defined by CSS, playing a pivotal role in determining dimensions, color schemes, and overall presentation.
+
+In the dynamic realm of user interactions, JavaScript took center stage on the front end. It was intricately woven into the fabric of the navigation menu and login section, providing users with real-time password verification capabilities. This not only enhanced security but also ensured a seamless user experience.
+
+PHP, on the other hand, served as the indispensable link between the system and the database. Leveraging fetch, get, and post methods, PHP seamlessly retrieved and showcased essential information. We used a combination of PDO and Mysqli query on database operations, covering key functionalities like select, insert into adding, and updating and some.
+
+Monitoring the system's ongoing progress was made possible through XAMPP, offering convenient localhost or local server access to PHPMyAdmin. Within this controlled environment, we meticulously established the necessary databases and tables, providing a secure repository for user-inputted information.
 
 
 
